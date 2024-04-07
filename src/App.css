@@ -1,0 +1,8 @@
+body {
+  font-family: 'Roboto', sans-serif; /* Replace 'Roboto' with your chosen font */
+}
+
+/* Optionally, apply the font to specific elements */
+h1, h2, h3, p {
+  font-family: 'Roboto', sans-serif;
+}
